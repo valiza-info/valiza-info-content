@@ -1,4 +1,4 @@
-[Офииальная информация](https://www.canada.ca/en/immigration-refugees-citizenship/news/2022/03/canada-ukraine-authorization-for-emergency-travel.html) на английсокм
+[Официальная информация](https://www.canada.ca/en/immigration-refugees-citizenship/news/2022/03/canada-ukraine-authorization-for-emergency-travel.html) на английском
 # Виза
 ## Канадско-Украинское разрешение на экстренную поездку (CUAET)
 ###  Кто может подать заявку
