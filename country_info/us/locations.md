@@ -1,6 +1,6 @@
 ### Найдите ресурсы и контакты в вашем штате
 https://www.acf.hhs.gov/orr/map/find-resources-and-contacts-your-state
-### Список поставщиков услуг в по штатам
+### Список поставщиков услуг по штатам
 [Официальная информация](https://www.acf.hhs.gov/orr/grant-funding/key-state-contacts) на английском
 * **Алабама**
 Веб-сайт штата: [Inspiritus Birmingham](https://weinspirit.org/birmingham)
