@@ -4,6 +4,10 @@ https://t.me/ukrainians_in_the_us
 https://t.me/Ukrainians_in_The_USA
 
 https://t.me/refugeesinAmerica
+
+https://t.me/adaptaciyaUSA_UA
+
+https://t.me/sponsor_usa
 ### Facebook
 https://www.facebook.com/groups/usa.ukr/?ref=share
 
