@@ -39,3 +39,14 @@ AZ LINZ-PVZ, Waldeggstraße 41, 4020 Linz. Понеділок Середа – �
 Адреса: Hotel Europa, Südtiroler Platz 2, 6020 Innsbruck
 Графік роботи: цілодобово, без вихідних
 Більше інформації: [Ukraine-Hilfe | Land Tirol](https://www.tirol.gv.at/tirol-europa/ukraine-hilfe/)
+## Інформація в залежності від федеральних земель
+
+* [Land Wien / Відень](https://start.wien.gv.at/ukraine/de) (Deutsch, Українська мова)
+* [Land Salzburg / Зальцбург](https://www.salzburg.gv.at/gesellschaft_/Seiten/ukraine-hilfe.aspx)  (English, Deutsch, Українська мова, Русский язык)
+* [Land Tirol / Тіроль](https://www.tirol.gv.at/tirol-europa/ukraine-hilfe/faqs-informacija-ukrajinskoju-movoju/faqs/) (English)
+* [Land Niederösterreich / Нижня Австрія](https://www.noe.gv.at/noe/SozialeDienste-Beratung/Informationen_fuer_Fluechtlinge_aus_der_Ukraine.html) (Deutsch)
+* [Land Burgenland / Бургенланд](https://www.burgenland.at/politik/burgenland-hilft/)
+* [Land Oberösterreich / Верхня Австрія – Nachbarschaftshilfe für Flüchtlinge aus der Ukraine](https://www.land-oberoesterreich.gv.at/files/ukraine/index.html)(Deutsch)
+* [Land Vorarlberg / Форарльберг](https://vorarlberg.at/-/ukraine-mehrsprachig) (Multilingual)
+* [Land Kärnten / Каринтія](https://www.ktn.gv.at/Service/Ukraine-Infos) (Deutsch)
+* [Land Steiermark / Штирія](https://www.ukrainehilfe.steiermark.at/) (Deutsch)
