@@ -10,3 +10,5 @@ https://www.facebook.com/groups/unitipentruucraina
 https://www.facebook.com/groups/UkrRom/?ref=share
 
 https://www.facebook.com/groups/952228112161271/?ref=share
+
+https://www.facebook.com/groups/1330732930758348/?ref=share
