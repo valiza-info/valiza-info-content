@@ -40,7 +40,6 @@
 [Переглянути стан черг на кордоні та час очікування в пунктах пропуску до Польші](9https://novosti.sprosi.eu/ua-pl/#h-%D0%BE%D1%87%D0%B5%D1%80%D0%B5%D0%B4%D1%8C-%D0%BD%D0%B0-%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B5-%D0%B2-%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8-%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0-%D0%BF%D0%BE%D0%BB%D1%8C%D1%88%D0%B0-%D1%81%D0%B5%D0%B9%D1%87%D0%B0%D1%81).
 
 </details>
-</br>
 
 <details>
 <summary>Угорщина</summary></br> 
@@ -52,8 +51,6 @@
 - Дзвінкове - Лонья (працює з 8:00 до 19:00).
 
 </details>
-</br>
-
 
 <details>
 <summary>Румунія</summary></br> 
@@ -68,7 +65,6 @@
 Всі пункти пропуску працюють цілодобово.
 
 </details>
-</br>
 
 <details>
 <summary>Молдова</summary></br>
@@ -82,7 +78,6 @@
 
 
 </details>
-</br>
 
 
 <details>
@@ -94,8 +89,6 @@
 
 
 </details>
-</br>
-
 
 
 #### Перетин кордону на автомобілі
@@ -117,7 +110,6 @@
 e-mail: dovira@dpsu.gov.ua; zvernennia@dpsu.gov.ua
 
 </details>
-</br>
 
 
 Cистема [ДРУГ](https://friend.mfa.gov.ua): в разі виникнення надзвичайної ситуації за кордоном – використовуйте, щоб отримати від МЗС допомогу чи інструкції..

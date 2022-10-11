@@ -18,7 +18,6 @@
 
 Докладніше на [www.thaievisa.go.th](https://www.thaievisa.go.th/ 'www.thaievisa.go.th')
 </details>
-</br>
 
 #### Covid обмеження
 

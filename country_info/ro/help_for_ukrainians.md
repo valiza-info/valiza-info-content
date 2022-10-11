@@ -15,7 +15,6 @@ Website: www.cnrr.ro
 
 Email: office@cnrr.ro
 </details>
-</br>
 
 <details>
 <summary>УВКБ ООН Румунія (UNHCR Romania)</summary></br>
@@ -27,7 +26,6 @@ Website: www.unhcr.org/ro/
 Email: rombu@unhcr.org
 
  </details>
-</br>
 
 <details>
 <summary>Міграційна Служба Румунії</summary></br>
@@ -38,7 +36,6 @@ Website: https://igi.mai.gov.ro/en
 
 Email: igi@mai.gov.ro
 </details>
-</br>
 
 <details>
 <summary>Неурядова організація LOGS в Тімішоарі</summary></br>
@@ -56,6 +53,5 @@ Email: igi@mai.gov.ro
 сall-центр (WhatsApp) для отримання інформації про процедуру надання притулку та загальних питань (англійською, російською, українською мовами) +40 765 861 888
 
 </details>
-</br>
 
 Звернутися по допомогу з інших питань можна до **[неурядових організацій різної направленості, що надають допомогу українцям](/article/1ec4c4b866b7e1cdeb3d556f2).**
