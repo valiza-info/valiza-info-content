@@ -6,7 +6,7 @@
 
 
 <details>
-<summary>BCR</summary></br> 
+<summary>BCR</summary>
 
 Послуги для громадян України:
 - відкриття рахунку без плати за обслуговування;
@@ -25,7 +25,7 @@
 </details>
 
 <details>
-<summary>Raiffeisen Bank</summary></br> 
+<summary>Raiffeisen Bank</summary>
 
 
 *Відкриття рахунку у леях:*
@@ -42,7 +42,7 @@
 </details>
 
 <details>
-<summary>BRD</summary></br> 
+<summary>BRD</summary>
 
 Банк пропонує
 - безкоштовне відкриття рахунків для громадян України у леях або євро без плати за обслуговування;
@@ -56,7 +56,7 @@
 </details>
 
 <details>
-<summary>Banca Transilvania</summary></br> 
+<summary>Banca Transilvania</summary>
 
 - відкриття рахунку без плати за його обслуговування;
 
@@ -71,7 +71,7 @@
 </details>
 
 <details>
-<summary>Revolut Bank</summary></br> 
+<summary>Revolut Bank</summary> 
 
 Для громадян України є можливість відкрити рахунок та пов'язати його з гривневою карткою.
 </details>

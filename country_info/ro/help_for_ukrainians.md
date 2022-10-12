@@ -7,7 +7,7 @@
 
 
 <details>
-<summary>Румунська національна рада у справах біженців (CNRR)</summary></br>
+<summary>Румунська національна рада у справах біженців (CNRR)</summary>
 
 Телефонний номер: (+40) 730 073 170, (+40) 721 206 926
 
@@ -17,7 +17,7 @@ Email: office@cnrr.ro
 </details>
 
 <details>
-<summary>УВКБ ООН Румунія (UNHCR Romania)</summary></br>
+<summary>УВКБ ООН Румунія (UNHCR Romania)</summary>
 
 Телефонний номер: (+40) 723 653 651
 
@@ -28,7 +28,7 @@ Email: rombu@unhcr.org
  </details>
 
 <details>
-<summary>Міграційна Служба Румунії</summary></br>
+<summary>Міграційна Служба Румунії</summary>
 
 Телефонний номер: (+40) 214 107 513
 
@@ -38,7 +38,7 @@ Email: igi@mai.gov.ro
 </details>
 
 <details>
-<summary>Неурядова організація LOGS в Тімішоарі</summary></br>
+<summary>Неурядова організація LOGS в Тімішоарі</summary>
  
 
 
