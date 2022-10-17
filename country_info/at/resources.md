@@ -1,12 +1,18 @@
 ### Telegram
-https://t.me/ukraineat
+</br>
 
-https://t.me/austriaukr
+[Чат взаємодопомоги українцям в Австрії](https://t.me/ukraineat)
 
-https://t.me/refugeesinAustria
+[Українці в Австрії](https://t.me/austriaukr)
+
+[Допомога українцям в Австрії](https://t.me/refugeesinAustria)
+
+***
 ### Facebook
-https://www.facebook.com/groups/ukrainiansinaustria/
+</br>
 
-https://www.facebook.com/groups/141059926254482/?ref=share
+[Ukrainians in Austria](https://www.facebook.com/groups/ukrainiansinaustria/)
 
-https://www.facebook.com/groups/765488638190375/?ref=share
+[Українці в Австрії](https://www.facebook.com/groups/141059926254482/?ref=share)
+
+[Українці у Відні](https://www.facebook.com/groups/765488638190375/?ref=share)
