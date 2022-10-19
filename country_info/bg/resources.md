@@ -1,20 +1,29 @@
 #### Офіційні сайти допомоги біженцям:
 
-https://gov.bg/ru/ukraine
+</br>
 
-https://www.bg4ua.com/
+[Bulgaria for Ukraine](https://gov.bg/ru/ukraine)
 
- www.motherukraine-bg.org
+[Support Ukrainians in Bulgaria](https://www.bg4ua.com/)
+
+[Допомога громадянам України в Болгарії](www.motherukraine-bg.org)
 
 #### Telegram
-https://t.me/boltalka_bg
 
-https://t.me/UkraineinBulgarian
+</br>
+
+[Життя в Болгарії, біженці](https://t.me/boltalka_bg)
+
+[Дошка оголошень Українці в Болгаріі](https://t.me/UkraineinBulgarian)
+
 #### Facebook
-https://www.facebook.com/groups/ukraine.bg
 
-https://www.facebook.com/groups/699929631375624
+</br>
 
-https://www.facebook.com/groups/uainbg/?ref=share
+[Допомога українським біженцям в Болгарії](https://www.facebook.com/groups/ukraine.bg)
 
-https://www.facebook.com/groups/UkrainiansBulgaria/?ref=share
+[Accommodation, Help & Shelter for Ukraine](https://www.facebook.com/groups/699929631375624)
+
+[Українці в Болгарії](https://www.facebook.com/groups/uainbg/?ref=share)
+
+[Українці в Болгарії](https://www.facebook.com/groups/UkrainiansBulgaria/?ref=share)
