@@ -1,12 +1,18 @@
-### Telegram
-https://t.me/helpgeorgia
+#### Telegram
+</br>
 
-https://t.me/georgia_helps_ukraine 
+[Грузія - оренда житла, Тбілісі](https://t.me/helpgeorgia)
 
-https://t.me/dopomogaGE
-### Facebook
-https://www.facebook.com/groups/Ukrgroup/?ref=share
+[Допомога українцям в Грузії, Тбілісі](https://t.me/georgia_helps_ukraine) 
 
-https://www.facebook.com/groups/ukraina.sakartvelo/?ref=share
+[Допомога українцям в Грузії](https://t.me/dopomogaGE)
 
-https://www.facebook.com/groups/1011192283084854/?ref=share
+***
+#### Facebook
+</br>
+
+[Українці в Грузії](https://www.facebook.com/groups/Ukrgroup/?ref=share)
+
+[Українці в Грузії](https://www.facebook.com/groups/ukraina.sakartvelo/?ref=share)
+
+[Платформа українців Грузії](https://www.facebook.com/groups/1011192283084854/?ref=share)

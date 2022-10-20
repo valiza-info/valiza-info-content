@@ -1,10 +1,17 @@
-### Telegram
-https://t.me/Denmark_Ukraine
+#### Telegram
+</br>
 
-https://t.me/UkrainianDenmark
-### Facebook
-https://www.facebook.com/groups/473643156627982/?ref=share
+[Допомога Українцям у Данії](https://t.me/Denmark_Ukraine)
 
-https://www.facebook.com/groups/265614357532839/?ref=share
+[Українці в Даніі](https://t.me/UkrainianDenmark)
 
-https://www.facebook.com/groups/VDaniyi/?ref=share
+***
+#### Facebook
+
+</br>
+
+[Українці в Данії](https://www.facebook.com/groups/473643156627982/?ref=share)
+
+[НАШІ в Данії](https://www.facebook.com/groups/265614357532839/?ref=share)
+
+[В ДАНІЇ](https://www.facebook.com/groups/VDaniyi/?ref=share)

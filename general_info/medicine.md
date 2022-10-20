@@ -1,20 +1,42 @@
 #### Страхування за кордоном
 
-Оформити поліс онлайн можна в:
+</br>
 
-[hotline.finance](https://hotline.finance/ua/insurance-travel)
-
-[ETC](https://eurotravelins.com.ua/)
-
-[PZU](https://www.pzu.com.ua/individual/travel/abroad.html)
-
-[ARX](https://arx.com.ua/produkty/turystychne-strakhuvannya/turystychne-strakhuvannya?utm_source=google&utm_medium=cpc&utm_campaign=828523636&utm_term=%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C%20%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%BE%D0%B2%D0%BA%D1%83%20%D0%B7%D0%B0%20%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%83&utm_content=587452025685&gclid=CjwKCAjwtKmaBhBMEiwAyINuwAQwoBa2pJOBIlOC4BELqWDR2CJJELuezu6GZzFx2O1JZ8XbDU32dhoC0CkQAvD_BwE)
-
-[VUSO](https://vuso.ua/uslugi/turisticheskoe-strahovanie.html)
-
-<section type="note">
-Зауважте, що якщо Ви купуєте страховку, вже знаходячись в країні покриття, діяти вона почне через 5 днів після оформлення. 
+<section type="warning" title="Зауважте">
+Якщо Ви знаходитесь поза межами України, не всі страхові компанії зможуть оформити Вам поліс. До того ж, в більшості такий поліс починаєте діяти не одразу з дати оформлення.
 </section>
+
+Найкращі варіанти страхових компаній, що **відкривають поліс онлайн поза межами України**:
+
+[VUSO](https://vuso.ua/uslugi/turisticheskoe-strahovanie.html) - страховка почне діяти через 5 днів після оформлення;
+
+[ARX](https://arx.com.ua/produkty/turystychne-strakhuvannya/turystychne-strakhuvannya?utm_source=google&utm_medium=cpc&utm_campaign=828523636&utm_term=%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C%20%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%BE%D0%B2%D0%BA%D1%83%20%D0%B7%D0%B0%20%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%83&utm_content=587452025685&gclid=CjwKCAjwtKmaBhBMEiwAyINuwAQwoBa2pJOBIlOC4BELqWDR2CJJELuezu6GZzFx2O1JZ8XbDU32dhoC0CkQAvD_BwE) - страховка почне діяти одразу з дати оформлення, окрім  окремих опцій - невідкладна стоматологічна чи амбулаторна допомога та оплата ліків (їх покриття розпочинається через 3 дні після оформлення полісу).
+
+<details>
+<summary>Інші страхові компанії, що оформлють поліси онлайн за межами України</summary>
+
+[ETC](https://eurotravelins.com.ua/) - починає діяти через 3 дні після оформлення полісу з-за кордону;
+
+[PZU](https://www.pzu.com.ua/individual/travel/abroad.html) - оформити з-за кордону можна лише покриття «Стандарт+», діяти починає через 3 дні від дати оформлення;
+
+[INGO](https://ingo.ua/) - покриття розпочинається одразу з дня оформлення.
+
+
+</details>
+
+<section type="tip">
+Якщо Ви раніше мали поліс від тієї ж страхової компанії та оформлюєте новий, робіть це не розриваючи дати (тобто, дата дії нової має наступати одразу після закінчення попередньої) - в такому випадку новий поліс буде вважатися діючим одразу.
+
+
+</section>
+
+</br>
+
+[hotline.finance](https://hotline.finance/ua/insurance-travel) - сервіс з оформлення полісів від різних страхових компаній, через який можна порівнювати та купляти поліси онлайн.
+
+
+
+***
 
 Під час придбання страховки також зверніть увагу на:
 
@@ -29,7 +51,7 @@
 Воно необхідно лише для країн, яких немає в списках Європа або Європа+.
 </section>
 
-
+***
 
 #### Як отримати консультацію українського лікаря, перебуваючи за кордоном
 
