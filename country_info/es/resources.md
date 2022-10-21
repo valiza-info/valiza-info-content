@@ -1,10 +1,17 @@
-### Telegram
-https://t.me/infohelpBCN
+#### Telegram
+</br>
 
-https://t.me/espana_ucrania
-### Facebook
-https://www.facebook.com/groups/ukrainespainykurnat/?ref=share
+[Інформаційна допомога українцям в Барселоні](https://t.me/infohelpBCN)
 
-https://www.facebook.com/groups/357723959598475/?ref=share
+[Іспанія: підтримка українців](https://t.me/espana_ucrania)
 
-https://www.facebook.com/groups/spain.ua/?ref=share
+***
+
+#### Facebook
+</br>
+
+[Українці в Іспанії](https://www.facebook.com/groups/ukrainespainykurnat/?ref=share)
+
+[Допомога українцям в Іспанії](https://www.facebook.com/groups/357723959598475/?ref=share)
+
+[Іспанія UA | Дошка оголошень](https://www.facebook.com/groups/spain.ua/?ref=share)
