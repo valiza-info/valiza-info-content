@@ -1,14 +1,25 @@
-### Telegram
-https://t.me/refugeesinBelgium
+#### Telegram
+</br>
 
-https://t.me/ukrainciwbelgii
-### Facebook
-https://www.facebook.com/groups/367389290442993/?ref=share
+[Допомога українцям в Бельгії](https://t.me/refugeesinBelgium)
 
-https://www.facebook.com/groups/212231388841060/?ref=share
+[Українці в Бельгії](https://t.me/ukrainciwbelgii)
 
-https://www.facebook.com/groups/146023776127216/?ref=share
+***
 
-### Радіо
+#### Facebook
+
+</br>
+
+[УКРАЇНЦІ в Бельгії](https://www.facebook.com/groups/367389290442993/?ref=share)
+
+[Українці Бельгії](https://www.facebook.com/groups/212231388841060/?ref=share)
+
+[українці в Бельгії](https://www.facebook.com/groups/146023776127216/?ref=share)
+
+#### Радіо
+
+</br>
+
 [**RTBF Ukraine**](http://www.rtbf.be/radio/liveradio/rtbf-ukraine) - підкасти й
 практична інформація українською

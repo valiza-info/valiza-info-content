@@ -1,16 +1,24 @@
-### Telegram
-https://t.me/ukrainianinireland
+#### Telegram
 
-https://t.me/ukraininanIreland2022
+</br>
 
-https://t.me/Ukrainian_in_ireland
+[Українці в Ірландії](https://t.me/ukrainianinireland)
 
-https://t.me/Ukrainians_in_Ireland
-### Facebook
-https://www.facebook.com/groups/Ukrainians.in.Ireland/?ref=share
+[Українці в Ірландії](https://t.me/ukraininanIreland2022)
 
-https://www.facebook.com/groups/ukraina.v.irlandii/?ref=share
+[Українці в Ірландії](https://t.me/Ukrainian_in_ireland)
 
-https://www.facebook.com/groups/393834645462217/?ref=share
+[Ukrainians in Ireland](https://t.me/Ukrainians_in_Ireland)
 
-https://www.facebook.com/groups/uatoie/?ref=share
+***
+#### Facebook
+
+</br>
+
+[Українці в Ірландії](https://www.facebook.com/groups/Ukrainians.in.Ireland/?ref=share)
+
+[УКРАЇНЦІ В ІРЛАНДІЇ / Квартира, робота, соціальна допомога, оголошення](https://www.facebook.com/groups/ukraina.v.irlandii/?ref=share)
+
+[Українці в Ірландії](https://www.facebook.com/groups/393834645462217/?ref=share)
+
+[Ukrainians in Ireland](https://www.facebook.com/groups/uatoie/?ref=share)
