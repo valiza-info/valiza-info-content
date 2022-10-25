@@ -1,10 +1,19 @@
-### Telegram
-https://t.me/naym_czechrepublic
+#### Telegram
 
-https://t.me/ukrczuk
-### Facebook
-https://www.facebook.com/groups/241624032987346/?ref=share
+</br>
 
-https://www.facebook.com/groups/781765052433782/?ref=share
+[Українці в Чехії](https://t.me/naym_czechrepublic)
 
-https://www.facebook.com/groups/migranty.czechrepublic/?ref=share
+[Українці в Чехії](https://t.me/ukrczuk)
+
+***
+
+#### Facebook
+
+</br>
+
+[Українці в Чехії](https://www.facebook.com/groups/241624032987346/?ref=share)
+
+[Українці в Чехії](https://www.facebook.com/groups/781765052433782/?ref=share)
+
+[Українці в Чехії](https://www.facebook.com/groups/migranty.czechrepublic/?ref=share)

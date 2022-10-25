@@ -1,8 +1,17 @@
 ### Telegram
-https://t.me/chat_ukrainians_nl
+</br>
+
+
+[Українці в Нідерландах (чат)](https://t.me/chat_ukrainians_nl)
+
+***
+
 ### Facebook
-https://www.facebook.com/groups/185986028708539/?ref=share
 
-https://www.facebook.com/groups/367534536788802/?ref=share
+</br>
 
-https://www.facebook.com/groups/ukr.holland/?ref=share
+[Українці в Нідерландах](https://www.facebook.com/groups/185986028708539/?ref=share)
+
+[Українці в Нідерландах](https://www.facebook.com/groups/367534536788802/?ref=share)
+
+[Українці в Нідерландах та Бельгії | UKR BEL NLD](https://www.facebook.com/groups/ukr.holland/?ref=share)

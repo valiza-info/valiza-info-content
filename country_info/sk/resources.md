@@ -1,12 +1,19 @@
-### Telegram
-https://t.me/ukrajinci_na_slovensku
+#### Telegram
+</br>
 
-https://t.me/ukrajincivsk
-### Facebook
+[Словаччина (житло, робота, допомога, освіта)](https://t.me/ukrajinci_na_slovensku)
+
+[Українці в Словаччинi](https://t.me/ukrajincivsk)
+
+***
+#### Facebook
+
+</br>
+
 [UkraineSlovakiaSOS ](https://www.facebook.com/UkraineSlovakiaSOS)
 
-https://www.facebook.com/groups/123130132469904/?ref=share
+[Українці в Словаччині / Slovensko. Робота, навчання, спорт, туризм.](https://www.facebook.com/groups/123130132469904/?ref=share)
 
-https://www.facebook.com/groups/ukrajincivsk/?ref=share
+[Українці у Словаччинi](https://www.facebook.com/groups/ukrajincivsk/?ref=share)
 
-https://www.facebook.com/groups/329588570759736/?ref=share
+[УКРАЇНЦІ В СЛОВАКІЇ](https://www.facebook.com/groups/329588570759736/?ref=share)

@@ -15,8 +15,11 @@
 
 [Українці Бельгії](https://www.facebook.com/groups/212231388841060/?ref=share)
 
+[Українці в Нідерландах та Бельгії | UKR BEL NLD](https://www.facebook.com/groups/ukr.holland/?ref=share)
+
 [українці в Бельгії](https://www.facebook.com/groups/146023776127216/?ref=share)
 
+***
 #### Радіо
 
 </br>

@@ -1,20 +1,28 @@
-### Telegram
-https://t.me/ukrainians_in_the_us
+#### Telegram
 
-https://t.me/Ukrainians_in_The_USA
+</br>
 
-https://t.me/refugeesinAmerica
+[Українці в США ](https://t.me/ukrainians_in_the_us)
 
-https://t.me/adaptaciyaUSA_UA
+[Ukrainians in The USA](https://t.me/Ukrainians_in_The_USA)
 
-https://t.me/sponsor_usa
-### Facebook
-https://www.facebook.com/groups/usa.ukr/?ref=share
+[Українці в США](https://t.me/refugeesinAmerica)
 
-https://www.facebook.com/groups/usa4ukrainians/?ref=share
+[Адаптація в США](https://t.me/adaptaciyaUSA_UA)
 
-https://www.facebook.com/ukrainians.in.the.usa/
+[Uniting for Ukraine 🇺🇦🇺🇸 США](https://t.me/sponsor_usa)
 
-https://www.facebook.com/groups/597013013779643/?ref=share
+***
+#### Facebook
 
-https://www.facebook.com/groups/iporada.usa/?ref=share
+</br>
+
+[USA | Дошка оголошень | Українці в Америці](https://www.facebook.com/groups/usa.ukr/?ref=share)
+
+[США (Сполучені Штати Америки) для українців](https://www.facebook.com/groups/usa4ukrainians/?ref=share)
+
+[Ukrainians in the USA](https://www.facebook.com/ukrainians.in.the.usa/)
+
+[Українці в США](https://www.facebook.com/groups/597013013779643/?ref=share)
+
+[Immigrant Porada | Група | Українці в США](https://www.facebook.com/groups/iporada.usa/?ref=share)

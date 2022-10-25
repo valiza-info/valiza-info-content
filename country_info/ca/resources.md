@@ -1,19 +1,27 @@
-### Telegram
-[https://t.me/ukrainiansincanada](https://t.me/ukrainiansincanada)
+#### Telegram
+</br>
 
-[https://t.me/ukrainiansincanada](https://t.me/ukrainiansincanada)
+[Українці в Канаді Canada🇨🇦🇺🇦](https://t.me/ukrainiansincanada)
 
-[https://t.me/UkrainianCanada](https://t.me/UkrainianCanada)
 
-https://t.me/refugeesinCanada
+[Українська Канада](https://t.me/UkrainianCanada)
 
-https://t.me/adaptationcanada
+[Українці в Канаді 🇺🇦🇨🇦 CUAET](https://t.me/refugeesinCanada)
 
-### Facebook
-[https://www.facebook.com/groups/canadahostukrainians/?ref=share](https://www.facebook.com/groups/canadahostukrainians/?ref=share)
+[Адаптація Канада](https://t.me/adaptationcanada)
 
-[https://www.facebook.com/groups/389805894911144/?ref=share](https://www.facebook.com/groups/389805894911144/?ref=share)
+***
 
-[https://www.facebook.com/UkrTO/](https://www.facebook.com/UkrTO/)
+#### Facebook
 
-[https://www.facebook.com/UkraineInCanada](https://www.facebook.com/UkraineInCanada)
+</br>
+
+ [Україна та Канада: імміграція, біженство, притулок](https://www.facebook.com/groups/ukrainianstocanada)
+
+[CANADA - Host Ukrainians](https://www.facebook.com/groups/canadahostukrainians/?ref=share)
+
+[Ukrainians in Canada/Українці в Канаді/Наші в Канаді](https://www.facebook.com/groups/389805894911144/?ref=share)
+
+[Ukrainians in Toronto Online Community](https://www.facebook.com/UkrTO/)
+
+[Посольство України в Канаді](https://www.facebook.com/UkraineInCanada)

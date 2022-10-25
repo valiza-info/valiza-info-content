@@ -1,3 +1,6 @@
 category: visa
-text: Дозвіл на проїзд по програмі Uniting for Ukraine
+text: Необхідна заздалегідь оформлена віза або дозвіл на в'їзд по програмі Uniting for Ukraine
+---
+category: covid
+text: Вимагається сертифікат вакцинації.
 ---

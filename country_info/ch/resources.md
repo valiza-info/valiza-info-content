@@ -1,12 +1,20 @@
 ### Telegram
-https://t.me/swiss_ua
 
-https://t.me/SwissUA
+</br>
 
-https://t.me/refugeesinSwitzerland
+[Українці в Швейцарії](https://t.me/swiss_ua)
+
+[Українці в Швейцарії](https://t.me/SwissUA)
+
+[Допомога українцям в Швейцарії](https://t.me/refugeesinSwitzerland)
+
+***
 ### Facebook
-https://www.facebook.com/groups/uainch/?ref=share
 
-https://www.facebook.com/groups/519429765180420/?ref=share
+</br>
 
-https://www.facebook.com/groups/1152210911531207/?ref=share
+[Інформація для українців в Швейцарії](https://www.facebook.com/groups/uainch/?ref=share)
+
+[Українці в Швейцарії](https://www.facebook.com/groups/519429765180420/?ref=share)
+
+[Українці в Швейцарії ](https://www.facebook.com/groups/1152210911531207/?ref=share)

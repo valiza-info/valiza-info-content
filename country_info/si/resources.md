@@ -1,8 +1,14 @@
-### Telegram
-https://t.me/ukrainiansinslo
-### Facebook
-https://www.facebook.com/groups/ukrainiansinslovenia/?ref=share
+#### Telegram
 
-https://www.facebook.com/groups/882092001992043/?ref=share
+</br>
 
-https://www.facebook.com/groups/179196962897968
+[Українці в Словенії](https://t.me/ukrainiansinslo)
+
+***
+#### Facebook
+
+</br>
+
+[Українці в Словенії](https://www.facebook.com/groups/ukrainiansinslovenia/?ref=share)
+
+[Українці в Словенії](https://www.facebook.com/groups/882092001992043/?ref=share)

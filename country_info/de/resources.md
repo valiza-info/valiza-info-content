@@ -1,16 +1,27 @@
-### Telegram
-https://t.me/refugees_in_Germany
+#### Telegram
 
-https://t.me/helpUkraine_Gemany
+</br>
 
-https://t.me/germanyhelpsukraine
 
-https://t.me/ru_de_help
-### Facebook
-https://m.facebook.com/groups/helpukrainiansingermany
+[Допомога українцям в Німеччині](https://t.me/refugees_in_Germany)
 
-https://www.facebook.com/groups/194757407819660/?ref=share
+[Допомога українцям в Німеччині (інформаційна підтримка)](https://t.me/helpUkraine_Gemany)
 
-https://www.facebook.com/groups/2443339679218350/?ref=share
+[Допомога українцям в Німеччині (інформаційна, розміщення, переклади, супровід)](https://t.me/germanyhelpsukraine)
 
-https://www.facebook.com/groups/ukinim/?ref=share
+[Допомога Німеччина (чат)](https://t.me/ru_de_help)
+
+***
+
+#### Facebook
+
+</br>
+
+
+[Help for Ukrainians in Germany](https://m.facebook.com/groups/helpukrainiansingermany)
+
+[Українці в Німеччині](https://www.facebook.com/groups/194757407819660/?ref=share)
+
+[Українці в Німеччині](https://www.facebook.com/groups/2443339679218350/?ref=share)
+
+[Українці в Німеччині](https://www.facebook.com/groups/ukinim/?ref=share)
