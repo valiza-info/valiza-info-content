@@ -89,6 +89,7 @@
 
 Більш детальна інформація в статті: [Туреччина: все про туристичний, гуманітарний ВНП та міжнародний захист](/article/turkey-all-about-tourism-humanitarian-residence-permit-and-international-protection).
 
+Читайте також: [Як дістатися з України в Туреччину та навпаки](/article/c0906cdd91842315362b002a0).
 </br>
 
 ***
