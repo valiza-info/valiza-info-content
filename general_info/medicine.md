@@ -83,7 +83,15 @@
 - за допомогою [чат-боту в telegram](https://t.me/DoctorOnlineUABot);
 - через месенджер у [фейсбуці](https://www.messenger.com/login.php?next=https%3A%2F%2Fwww.messenger.com%2Ft%2F103110749000820%2F%3Fmessaging_source%3Dsource%253Apages%253Amessage_shortlink%26source_id%3D1441792).
 
+</details>
 
+<details>
+<summary>
+Ukrainian CrisisCare Telehealth Service</summary>
+
+Даний ресурс такоє є медичною онлайн-платформою, де можна отримати допомогу від українських лікарів онлайн та безкоштовно.
+
+Детльніше на сайті [GPNow](https://www.gpnow.net/ua).
 
 </details>
 
@@ -94,6 +102,7 @@
 - чат-бот [Турбота](https://t.me/Doc2rbothttps://t.me/Doc2rbot?fbclid=IwAR3V72glPCnQfS5pCWsv3B5fJB3izgr_s9SAtwamKf9PYvXWbbtQIx3qL_o);
 
 - [група в telegram](https://t.me/+5zS4Hd4pVqA5Y2My?fbclid=IwAR1uiRIBOuM2LoNQoJZEPUYkYPQ8ZAy_tn2ESOZIOw2IiRHlu76fET1nP0Q) від медичної мережі "Добробут", де можна зв'язатися з потрібним лікарем;
+
 - чат-бот [лікарі в Telegram](https://t.me/DOC_likari_bot).
 - гаряча лінія МОЗ України - 0-800-602-019.
 
