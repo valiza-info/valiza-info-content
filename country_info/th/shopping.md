@@ -1,3 +1,3 @@
 ### Online
 
-[https://www.lazada.co.th](https://www.lazada.co.th/) - місйцевий аналог amazon
+[lazada](https://www.lazada.co.th/) - місцевий аналог Аmazon

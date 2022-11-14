@@ -1,6 +1,6 @@
-#### Сайти для пошуку житла
+#### Короткострокова оренда
 
-**Короткострокова оренда** (є можливість забронювати житло на декілька днів або тижнів):
+На цих сайтах є можливість забронювати **житло на декілька днів або тижнів**:
 
 - [holidu](https://www.holidu.es/)
 - [airbnb](https://www.airbnb.es/)
@@ -9,19 +9,14 @@
 - [niumba](https://www.niumba.com/)
 - [rentalia](https://www.rentalia.com/)
 
-**Довгострокова оренда:**
+***
 
-- [pisos](https://www.pisos.com/)
-- [enalquiler](https://www.enalquiler.com/)
-- [habitaclia](https://www.habitaclia.com/)
-- [fotocasa](https://www.fotocasa.es/es/)
+#### Довгострокова оренда:
+
 - [idealista](https://www.idealista.com/)
+- [pisos](https://www.pisos.com/)
+- [fotocasa](https://www.fotocasa.es/es/)
 - [homehunter](https://homehunter.es/)
-
-<section type="note">
-
-Часто з пошуком та орендою житла на тривалий термін виникають труднощі через те, що іспанці дуже бояться брати людей без підтвердження постійних прибутків в Іспанії. Це пов'язано с тим, що закон захищає в першу чергу орендаря, а не власника нерухомості.
-</section>
 
 <details>
 <summary>Дивитися більше сайтів для пошуку житла на довгий термін</summary>
@@ -33,12 +28,21 @@
 - [api.cat](https://www.api.cat/)
 - [yaencontre](https://www.yaencontre.com/)
 - [shbarcelona](https://www.shbarcelona.es/)
+- [enalquiler](https://www.enalquiler.com/)
+- [habitaclia](https://www.habitaclia.com/)
 
 </details>
 
+<section>
+
+Часто з пошуком та орендою житла на тривалий термін виникають труднощі через те, що іспанці бояться брати людей без підтвердження постійних прибутків в Іспанії. Це пов'язано с тим, що закон захищає в першу чергу орендаря, а не власника нерухомості.
+</section>
+
+</br>
+
 ***
 
-Щоб винайняти довгостроково житло, іноземцям потрібно:
+Щоб **винайняти житло довгостроково**, іноземцям потрібно:
 
 1) Мати рахунок в місцевому банку;
 2) Заручитись рекомендаціями від місцевих (бажано);
