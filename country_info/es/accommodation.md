@@ -22,12 +22,9 @@
 <summary>Дивитися більше сайтів для пошуку житла на довгий термін</summary>
 
 - [badi](https://badi.com/)
-- [apartmentbarcelonarentals](https://www.apartmentbarcelonarentals.com/)
-- [barcelonacheckin](https://www.barcelonacheckin.com/ru)
 - [spotahome](https://www.spotahome.com/)
 - [api.cat](https://www.api.cat/)
 - [yaencontre](https://www.yaencontre.com/)
-- [shbarcelona](https://www.shbarcelona.es/)
 - [enalquiler](https://www.enalquiler.com/)
 - [habitaclia](https://www.habitaclia.com/)
 

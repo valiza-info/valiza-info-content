@@ -1,11 +1,9 @@
 #### Telegram
 </br>
 
-[Інформаційна допомога українцям в Барселоні](https://t.me/infohelpBCN)
 
 [Іспанія: підтримка українців](https://t.me/espana_ucrania)
 
-[Барселона: інформаційна допомога та чат](https://t.me/+4Ot2EekByC82NTg8)
 
 ***
 
