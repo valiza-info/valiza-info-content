@@ -1,4 +1,11 @@
+<section type="note">
+
+Дитяча клініка з гарними відгуками знаходиться при Bangkok Hospital Siriroj.
+</section>
+
+
 ##### Локації для відвідування з дітьми
+
 
 </br>
 
@@ -16,6 +23,11 @@
 
 - акваріум та ігрова кімната - Central Floresta (поверх В1, [координати](https://www.google.com/maps/place/Aquaria+Phuket/@7.8892026,98.3640527,17z/data=!4m10!1m2!2m1!1z0LDQutCy0LDRgNGW0YPQvCDQv9GF0YPQutC10YIg0LIgQ2VudHJhbCBGbG9yZXN0YQ!3m6!1s0x305031244348e8ab:0xf4a10de74d8b010b!8m2!3d7.8887188!4d98.3658599!15sCjHQsNC60LLQsNGA0ZbRg9C8INC_0YXRg9C60LXRgiDQsiBDZW50cmFsIEZsb3Jlc3RhWjMiMdCw0LrQstCw0YDRltGD0Lwg0L_RhdGD0LrQtdGCINCyIGNlbnRyYWwgZmxvcmVzdGGSAQhhcXVhcml1bZoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VNeWNuWnBVbUozRUFF4AEA!16s%2Fg%2F11fk147yg_))
 
+<section>
+
+В інших торгових центрах також є спеціальні куточки для дітей. Їх можна знайти в Big C і Tesco Lotus в Пхукет-тауні або в Jungceylon на пляжі Патонг. 
+</section>
+
 - заповідник слонів - Elephant Jungle Sanctuary [координати](https://www.google.com/maps?q=Elephant+Jungle+Sanctuary+Phuket&um=1&ie=UTF-8&sa=X&ved=2ahUKEwic5cHm3rP7AhUCxosKHfWQAzcQ_AUoAXoECAMQAw))
 
 - аквапарк - Splash Jungle Waterpark ([координати](https://www.google.com/maps/place/Splash+Jungle/@8.1175678,98.3041318,17z/data=!3m1!4b1!4m6!3m5!1s0x3050461f08e4b1cf:0x2b48a7f22b3b3b87!8m2!3d8.1175678!4d98.3063205!16s%2Fg%2F1pxwqq1l3))
@@ -25,4 +37,3 @@
 
   Придбати квитки в акваріум та заповідник можна дешевше онлайн на сайті klook. Квитки в акваріум - [тут](https://www.klook.com/en-MY/activity/26631-aquaria-phuket-ticket/?aid=2084&utm_medium=affiliate-alwayson&utm_source=non-network&utm_campaign=2084&utm_term=&utm_content=), в заповідник слонів - за [посиланням](https://www.klook.com/activity/3595-half-day-visit-elephant-jungle-sanctuary-phuket/?aff_adid=90442&af_wid=2373&aff_label1=Elephant%20Jungle%20Sanctuary&aff_label2=Phuket&aff_label3=Thailand&aid=2373&aff_pid=&aff_sid=&utm_medium=affiliate-alwayson&utm_source=non-network&utm_campaign=2373&utm_term=&utm_content=&aff_klick_id=19894980066-2373-90442-7887878). Є знижки на [аквапарк Rawai](https://www.klook.com/en-US/activity/291-splash-jungle-waterpark-phuket/?aff_adid=79349&af_wid=2373&aff_label1=Splash%20Jungle%20Waterpark&aff_label2=Phuket&aff_label3=Thailand&aid=2373&aff_pid=&aff_sid=&utm_medium=affiliate-alwayson&utm_source=non-network&utm_campaign=2373&utm_term=&utm_content=&aff_klick_id=19897647754-2373-79349-54acbdc).
 </section>
-
