@@ -1,4 +1,8 @@
-Основні стільникові оператори в Іспанії: 
+Серед месенджерів використовують лише **WhatsApp.**
+
+Майже для всіх процесів в Іспанії (оформлення захисту, пошуку житла, відкриття банківського рахунка і т.д.) вимагається **наявність іспанського номера телефону.**
+
+**Основні мобільні оператори в Іспанії:**
 
 - [Movistar](https://web.movistar.es/landings/?custom=176066429_kwd-1414061417473&sem=sem-brand_extended_brand&tc_alt=33569&n_o_pst=n_o_pst&n_okw=movistar%20.com_b__c_49650107706_176066429_kwd-1414061417473_&gclid=Cj0KCQiApb2bBhDYARIsAChHC9v8ocik17Hz6inHAA4Q479nfXXzxnnz6XUEtC7e-xuefGc0V8mLaCcaAkG5EALw_wcB&gclsrc=aw.ds)
 - [Digimobil](https://www.digimobil.es/?gclid=Cj0KCQiApb2bBhDYARIsAChHC9vjOeL6qzpCisWwVqP6G0nR3kjZk0W6dS1Qorbr3PJgyCROoOnrlZUaAs5rEALw_wcB)
