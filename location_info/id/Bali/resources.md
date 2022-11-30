@@ -1,6 +1,6 @@
 
 
-[База Знань | Bali Ukraine](https://bali-ukraine.notion.site/Bali-Ukraine-225c633965c54450b6ba9f75b1e2d71e) - ресурс з інформацією про житло
+[База Знань | Bali Ukraine](https://bali-ukraine.notion.site/Bali-Ukraine-225c633965c54450b6ba9f75b1e2d71e) - український ресурс з всією необхідною інформацією про життя на острові
 
 ***
 
