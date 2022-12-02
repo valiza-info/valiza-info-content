@@ -62,7 +62,7 @@ VOA може бути подовжена **один раз на 30 днів** в
 
 ##### COVID-19
 
-Вимагається **дійсний міжнародний сертифікат про повну вакцинацію проти COVID-19** із застосуванням дозволеної вакцини (Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac/Coronavac). 
+Вимагається **дійсний міжнародний сертифікат про повну вакцинацію проти COVID-19** із застосуванням дозволеної вакцини (Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac/Coronavac, Novavax, Johnson&Johnson).
 
 Остаточна доза повинна бути введена **щонайменше за 14 днів до відправлення**. 
 
