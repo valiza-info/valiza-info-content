@@ -19,6 +19,8 @@
 
 Ресурси- аналоги:
 
+[host4ukraine](https://host4ukraine.com/)
+
 [ukrainenow](https://www.ukrainenow.org/looking-for-help-abroad)
 
  [icanhelp](https://icanhelp.host/)
@@ -48,4 +50,4 @@
 
 [uaklych](https://t.me/uaklych) - cпільнота організаторів проукраїнських мітингів по всьому світу.
 
-[Сайт МВС України](https://hsc-gov-ua.translate.goog/index/poslugi/faq/u-yakih-krayinah-svitu-mozhna-koristuvatisya-natsionalnim-posvidchennyam-vodiya-a-u-yakih-viznayutsya-lishe-mizhnarodni-posvidchennya-vodiya/?_x_tr_sl=auto&_x_tr_tl=th&_x_tr_hl=uk&_x_tr_pto=wapp) - інформація по різним країнам стосовно того, чи визнається українське або лише міжнародне посвідчення водія.
+[Сайт МВС України](https://hsc.gov.ua/index/poslugi/faq/u-yakih-krayinah-svitu-mozhna-koristuvatisya-natsionalnim-posvidchennyam-vodiya-a-u-yakih-viznayutsya-lishe-mizhnarodni-posvidchennya-vodiya/) - інформація по різним країнам стосовно того, чи визнається українське або лише міжнародне посвідчення водія.
