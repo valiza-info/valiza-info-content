@@ -1,4 +1,6 @@
+**[From Ukraine to Portugal](https://boulder-hibiscus-53d.notion.site/From-Ukraine-to-Portugal-5e9cb791007141b4a0a6fa4d6867703d)** - ресурс з корисними посиланнями по країні на різну тематику.
 
+***
 #### Telegram
 
 </br>
