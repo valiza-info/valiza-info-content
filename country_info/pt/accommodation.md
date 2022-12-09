@@ -4,6 +4,11 @@
 
 - [booking.com](https://www.booking.com/index.ru.html?label=gen173rf-1BCAEoggI46AdIM1gDaOkBiAEBmAEhuAEXyAEM2AEB6AEBiAIBogIQd2l0aHBvcnR1Z2FsLmNvbagCA7gC77SonAbAAgHSAiQ3NDA4NmIzMi1mNjA0LTQxMjItYWYzMC05OGRmZmNjZmQ3YzTYAgXgAgE&keep_landing=1&sb_price_type=total&)
 
+<section>
+
+Хостели в Португалії визнані одними з найкомфортніших в світі, тому можна не боятися зупинятись в такому житлі. Вартість складає від 10 євро за ніч.
+</section>
+
 ***
 
 **Сайти з пошуку житла для довготривалої оренди:**
@@ -44,5 +49,7 @@
 </section>
 
 ***
+
+Для того, щоб власник квартири здав її в оренду, потрібна наявність ідентифікаційного номеру. Додатково можуть попросити підтвердження платоспроможністі через виписки з банку, наявність роботи або тривалого контракту.
 
 Читайте також статтю: [Особливості пошуку та оренди в Португалії](/article/fa58826c6a9bc31b7f253e59e).
