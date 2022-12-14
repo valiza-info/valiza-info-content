@@ -5,7 +5,7 @@
 
 <section type="note">
 
-На сайті [iefp](https://www.iefp.pt/portugal-for-ukraine) розміщуються вакансії та поради с працевлаштування в Португалії саме для українців.
+На сайті [iefp](https://www.iefp.pt/portugal-for-ukraine) розміщуються вакансії та поради с працевлаштування в Португалії саме для українців. Запити також можна надсилати на пошту job.ukraine@iefp.pt.
 </section>
 
 

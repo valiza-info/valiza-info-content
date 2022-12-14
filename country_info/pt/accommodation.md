@@ -2,7 +2,11 @@
 
 - [airbnb](https://www.airbnb.pt/)
 
-- [booking.com](https://www.booking.com/index.ru.html?label=gen173rf-1BCAEoggI46AdIM1gDaOkBiAEBmAEhuAEXyAEM2AEB6AEBiAIBogIQd2l0aHBvcnR1Z2FsLmNvbagCA7gC77SonAbAAgHSAiQ3NDA4NmIzMi1mNjA0LTQxMjItYWYzMC05OGRmZmNjZmQ3YzTYAgXgAgE&keep_landing=1&sb_price_type=total&)
+- [uniplaces](https://www.uniplaces.com/)
+
+- [spotahome](https://www.spotahome.com/)
+
+- [booking](https://www.booking.com/index.ru.html?label=gen173rf-1BCAEoggI46AdIM1gDaOkBiAEBmAEhuAEXyAEM2AEB6AEBiAIBogIQd2l0aHBvcnR1Z2FsLmNvbagCA7gC77SonAbAAgHSAiQ3NDA4NmIzMi1mNjA0LTQxMjItYWYzMC05OGRmZmNjZmQ3YzTYAgXgAgE&keep_landing=1&sb_price_type=total&)
 
 <section>
 
@@ -50,7 +54,7 @@
 
 ***
 
-Для того, щоб власник квартири здав її в оренду, потрібна наявність ідентифікаційного номеру. Додатково можуть попросити підтвердження платоспроможністі через виписки з банку, наявність роботи або тривалого контракту.
+Для того, щоб власник квартири здав її в оренду, Вам потрібна наявність ідентифікаційного номеру (NIF). Додатково можуть попросити підтвердження платоспроможністі через виписки з банку, наявність роботи або тривалого контракту.
 
 Читайте також статтю: [Особливості пошуку та оренди в Португалії](/article/fa58826c6a9bc31b7f253e59e).
 
