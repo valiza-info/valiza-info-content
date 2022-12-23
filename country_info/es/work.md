@@ -15,20 +15,42 @@
 </section>
 
 ***
-**Найбільші портали для пошуку роботи**:
+##### Cайти для пошуку роботи:
+
+Найбільші:
 
 - [InfoJobs](https://www.infojobs.net/)
-- [Trabajos](https://www.trabajos.com/)
-- [Empléate](https://www.empleate.gob.es/) – офіційний державний сайт з вакансіями
-- [Infoempleo](https://www.infoempleo.com/).
 
+- [Trabajos](https://www.trabajos.com/)
+
+<details>
+<summary>Інші сайти</summary>
+
+- [Empléate](https://www.empleate.gob.es/) – офіційний державний сайт з вакансіями
+
+- [Infoempleo](https://www.infoempleo.com/)
+
+- [Randstad](www.randstad.es)
+
+- [Adecco](www.adecco.es)
+</details>
 
 <section type="tip">
 
-Можна скористатися сайтом [Indeed](https://es.indeed.com/?from=gnav-homepage), що є ***агрегатором вакансій*** та показує варіанти з різних сайтів за обраними параметрами.
+Можна скористатися порталом [Indeed](https://es.indeed.com/?from=gnav-homepage), що є ***агрегатором вакансій*** та показує варіанти з різних сайтів за обраними параметрами.
  </section>
 
-Також допомогти може спілкування з місцевими жителями та наголоc на тому, що Ви в пошуку роботи.
+[Randstad](https://www.randstad.es/) запустив Digital Help Center, щоб допомогти українцям знайти роботу. Також є спеціальна [сторінка у фейсбук](https://www.facebook.com/groups/1429679983774227') з пошуку роботи для українців. 
+
+***
+
+Допомогти в пошуках може спілкування з місцевими жителями та наголоc на тому, що Ви бажаєте влаштуватися на роботу.
 
  З мінімальними знаннями іспанської можна працювати в сфері обслуговування або сільському господарстві, а також шукати вакансії в іноземних компаніях, якщо Ви знаєте інші мови замість іспанської.
+
+<section>
+
+Хороший мобільний додаток для пошуку роботи офіціантом — Job Today. Вакансії з прибирання можна знайти на [mypoppins](https://mypoppins.com/es/). Адміністративну роботу - на [pagepersonnel](https://www.pagepersonnel.es/). 
+</section>
+
 

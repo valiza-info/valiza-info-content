@@ -16,6 +16,10 @@
 [Diia.pl](https://www.gov.pl/web/mobywatel-w-aplikacji/ua) - електронний документ, який підтверджує легальне перебування на території Польщі громадян України, що втікають від війни. Документ дозволяє їм подорожувати в межах Європейського Союзу, а також перетинати зовнішні кордони ЄС.
 </details>
 
+***
+
+
+[Інструкція з отримання PESEL](https://www.gov.pl/web/gov/otrymay-nomer-PESEL-ta-dovirenyy-profil-posluha-dlya-hromadyan-Ukrayiny-u-zvyazku-zi-zbroynym-konfliktom-na-terytoriyi-tsiyeyi-krayiny).
 
 ***
 
