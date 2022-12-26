@@ -1,7 +1,6 @@
 #### Telegram
 </br>
 
-[Грузія - оренда житла, Тбілісі](https://t.me/helpgeorgia)
 
 [Допомога українцям в Грузії, Тбілісі](https://t.me/georgia_helps_ukraine) 
 
