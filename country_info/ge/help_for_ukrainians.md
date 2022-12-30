@@ -1,4 +1,5 @@
-**Консульство України в Грузії**
+<details>
+<summary>Консульство України в Грузії</summary>
 
 Адреса: 0162 Грузія, м. Тбілісі, пр-т І.Чавчавадзе 76-г
 
@@ -9,6 +10,26 @@
 E-mail: emb_ge@mfa.gov.ua
 
 Сайт: [georgia.mfa](https://georgia.mfa.gov.ua/).
+</details>
+
+<details>
+<summary>Відділ у справах міжнародного захисту Міграційного департаменту МВС Грузії</summary>
+
+Адреса:  Грузія, Тбілісі, вул. Міхеїла Гахокідзе, 16 (16, Mikheil Gakhokidze Street, Tbilisi, Georgia)
+
+Телефон: +995 598 08 00 97
+</details>
+
+
+<details>
+<summary>Контакти представництва УВКБ ООН в Грузії</summary>
+
+Адреса: Грузія, Тбілісі, пр-т Олександра Казбегі, 2А (2a Aleksandre Kazbegi Ave. Tbilisi Georgia)
+
+Телефон: +995 577 41 56 10
+
+Електронна адреса: geotb@unhcr.org
+</details>
 
 ***
 
